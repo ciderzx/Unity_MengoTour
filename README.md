@@ -1,4 +1,4 @@
-<h1 align="left">GMS Unity Project [ KumchukKing ]</h1>
+<h1 align="left">KPU Unity Project [ MengoTour ]</h1>
 
 <p align = "center">
   <img width="40%" height="40%" align = "center" src="https://github.com/ciderzx/Unity_KumchukKing/assets/66687236/70d4cf77-6e02-4a04-9612-d62855a2498d"/>
