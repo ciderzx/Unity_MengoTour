@@ -19,23 +19,19 @@
 <br>
 
 <p align = "left">
-  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/6bd7e2c8-944a-4abd-aa53-a690a37bc0f0"/>
+  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/ee7c99b7-e3ab-4a87-9a5f-80e760d713e2"/>
   <br>
-  불길한 기운은 플레이어를 따라오는 오브젝트 
-  입니다. 해당 오브젝트는 시간이 지날 수록 <br>
-  점점 빨라지며 플레이어가 성실히 여자친구를
-  구해야 하는 이유 중 하나 입니다.
+  Server Connect Scene : 해당 Scene의 역할은 Server에 접속하는 기능을 하고 Photon Asset의 기능을 활성화 하는 Scene
 </p>
 
 <br>
 
 <p align = "left">
-  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/ee7c99b7-e3ab-4a87-9a5f-80e760d713e2"/>
+  <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/6bd7e2c8-944a-4abd-aa53-a690a37bc0f0"/>
   <br>
-  기억의 조각은 어떠한 사건에 중심이 되는
-  물체의 일정 개수를 모으는 시스템 입니다. <br>
-  물체는 사건에 대해 연관이 되어있으며
-  플레이어가 다 모아야 클리어가 가능합니다.
+  Play Choose Scene : 해당 Scene의 역할은 Player 가 사용할 이름을 설정하고 저장하는 기능과 <br>
+                      실제로 사용할 모델을 정하는 기능을 담당하는 Scene
+  
 </p>
 
 <br>
@@ -43,10 +39,7 @@
 <p align = "left">
   <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/6b86bd56-9c6f-48a0-ba89-890a130716d9"/>
   <br>
-  각 스테이지는 어떠한 사건을 중심으로 진행
- 되게 됩니다. 플레이어는 스테이지를 클리어 하게 되면 <br>
- 스토리상 시간을 되돌리게 되는데 되돌린 이후의
- 스토리를 스크롤 형식으로 연출이 되게 됩니다.
+  Room Scene : 
 </p>
 
 <br>
@@ -54,10 +47,7 @@
 <p align = "left">
   <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/a30ec111-a51b-40e2-b4c3-344fa58976fc"/>
   <br>
-  각 스테이지는 어떠한 사건을 중심으로 진행
- 되게 됩니다. 플레이어는 스테이지를 클리어 하게 되면 <br>
- 스토리상 시간을 되돌리게 되는데 되돌린 이후의
- 스토리를 스크롤 형식으로 연출이 되게 됩니다.
+  Room List Scene : 
 </p>
 
 <br>
@@ -65,10 +55,7 @@
 <p align = "left">
   <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/d2c7faa3-0912-4d06-aa16-104ac0545840"/>
   <br>
-  각 스테이지는 어떠한 사건을 중심으로 진행
- 되게 됩니다. 플레이어는 스테이지를 클리어 하게 되면 <br>
- 스토리상 시간을 되돌리게 되는데 되돌린 이후의
- 스토리를 스크롤 형식으로 연출이 되게 됩니다.
+  Play Scene - Dice : 
 </p>
 
 <br>
@@ -76,10 +63,7 @@
 <p align = "left">
   <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/a001f748-1b67-425f-9f4e-dd71c37f14b4"/>
   <br>
-  각 스테이지는 어떠한 사건을 중심으로 진행
- 되게 됩니다. 플레이어는 스테이지를 클리어 하게 되면 <br>
- 스토리상 시간을 되돌리게 되는데 되돌린 이후의
- 스토리를 스크롤 형식으로 연출이 되게 됩니다.
+  Play Scene - Mission : 
 </p>
 
 <br>
@@ -87,15 +71,10 @@
 <p align = "left">
   <img width="60%" height="60%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/f5dab88d-9b7f-4d87-a021-59d03b695986"/>
   <br>
-  각 스테이지는 어떠한 사건을 중심으로 진행
- 되게 됩니다. 플레이어는 스테이지를 클리어 하게 되면 <br>
- 스토리상 시간을 되돌리게 되는데 되돌린 이후의
- 스토리를 스크롤 형식으로 연출이 되게 됩니다.
+  Character : 
 </p>
 
 <br>
-
-
 
 ---
 
@@ -106,7 +85,7 @@
 </p>
 
 기여도
-+ 기획 : 100%  /  개발 : 95%
++ 기획 : 35%  /  개발 : 65%
 
 About
 + ‘Branch‘라는 동아리를 참여하여 모바일 캐주얼 게임을 개발하였습니다.
