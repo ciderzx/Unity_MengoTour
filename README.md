@@ -1,3 +1,5 @@
+<h1 align="left">KPU Unity Project [ Mengo Tour ]</h1>
+
 <p align = "center">
   <img width="40%" height="40%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/c7fcabed-bcb3-4319-834c-989bcd2266a7"/>
 </p>
