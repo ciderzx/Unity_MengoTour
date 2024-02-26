@@ -1,5 +1,3 @@
-![image](https://github.com/ciderzx/Unity_MengoTour/assets/66687236/81096d3f-391b-412e-8c52-536d34770f99)<h1 align="left">KPU Unity Project [ MengoTour ]</h1>
-
 <p align = "center">
   <img width="40%" height="40%" align = "center" src="https://github.com/ciderzx/Unity_MengoTour/assets/66687236/c7fcabed-bcb3-4319-834c-989bcd2266a7"/>
 </p>
